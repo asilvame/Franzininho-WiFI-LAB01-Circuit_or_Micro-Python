@@ -8,12 +8,13 @@ Portabilidade, adaptação ou criação de exemplos para utilização na Franzin
 |GPIO_DigitalPin                    | 🔴     | Exemplo Simples Introdutório                                                                                  |
 |ADC_AnalogicPin                    | 🔴     | Exemplo Simples Introdutório                                                                                  |
 |UART_Serial_RX-TX                  | 🔴     | Exemplo Simples Introdutório                                                                                  |
-|UART_Lora                          | 🔴     | Exemplo de utilização modulo Lora                                                                             |
-|UART_GPS                           | 🔴     | Exemplo de utilização modulo GPS                                                                              |
+|UART_Lora                          | 🔴     | Exemplo Simples de utilização modulo Lora                                                                     |
+|UART_GPS                           | 🔴     | Exemplo Simples de utilização modulo GPS                                                                      |
 |UART_Client                        | 🔴     | Exemplo aplicado ao Onesait Platform Comunity                                                                 |
 |UART_Server                        | 🔴     | Exemplo aplicado ao Onesait Platform Comunity                                                                 |
 |I2C                                | 🔴     | Exemplo Simples Introdutório                                                                                  |
 |SPI                                | 🔴     | ...                                                                                                           |
+|SPI_Lora                           | 🔴     |  Exemplo Simples de utilização modulo Lora                                                                    |
 |PWM                                | 🔴     | ...                                                                                                           |
 |PIO_State_Machine                  | 🔴     | ...                                                                                                           |
 |TOUCH                              | 🔴     | ...                                                                                                           |
