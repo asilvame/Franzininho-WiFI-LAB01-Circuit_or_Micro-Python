@@ -5,23 +5,23 @@ Portabilidade, adaptação ou criação de exemplos para utilização na Franzin
 
 | Exemplos                          | Status | Descrição                                                                                                     |
 |-----------------------------------|--------|---------------------------------------------------------------------------------------------------------------|
-|GPIO_DigitalPin                    | 🔴     | Exemplo Simples Introdutorio                                                                                  |
-|ADC_AnalogicPin                    | 🔴     | Exemplo Simples Introdutorio                                                                                  |
-|UART_Serial_RX-TX                  | 🔴     | Exemplo Simples Introdutorio                                                                                  |
+|GPIO_DigitalPin                    | 🔴     | Exemplo Simples Introdutório                                                                                  |
+|ADC_AnalogicPin                    | 🔴     | Exemplo Simples Introdutório                                                                                  |
+|UART_Serial_RX-TX                  | 🔴     | Exemplo Simples Introdutório                                                                                  |
 |UART_Client                        | 🔴     | Exemplo aplicado ao Onesait Platform Comunity                                                                 |
 |UART_Server                        | 🔴     | Exemplo aplicado ao Onesait Platform Comunity                                                                 |
-|I2C                                | 🔴     | Exemplo Simples Introdutorio                                                                                  |
+|I2C                                | 🔴     | Exemplo Simples Introdutório                                                                                  |
 |SPI                                | 🔴     | ...                                                                                                           |
 |PWM                                | 🔴     | ...                                                                                                           |
 |PIO_State_Machine                  | 🔴     | ...                                                                                                           |
 |TOUCH                              | 🔴     | ...                                                                                                           |
 |DAC                                | 🔴     | ...                                                                                                           |
-|USBDevice_HID_Sample_01            | 🔴     | Exemplo Simples Introdutorio                                                                                  |
+|USBDevice_HID_Sample_01            | 🔴     | Exemplo Simples Introdutório                                                                                  |
 |USBDevice_HID_Sample_02            | 🔴     | Exemplo de criação de Robo para automações de tarefas                                                         |
 |USBHost                            | 🔴     | ...                                                                                                           |
 |Client_RestAPI                     | 🔴     | Exemplo aplicado ao Onesait Platform Comunity                                                                 |
 |MQTT                               | 🔴     | Exemplo aplicado ao Onesait Platform Comunity                                                                 |
-|Client_websocket                   | 🔴     | Exemplo aplicado ao Onesait Platform Comunity                                                                 |
+|Client_websocket                   | 🔴     | ...                                                                                                           |
 |Server_http                        | 🔴     | Exemplo aplicado ao Onesait Platform Comunity                                                                 |
 |Client_Generic_Socket              | 🔴     |...                                                                                                            |
 |Server_Generic_Socket              | 🔴     |...                                                                                                            |
