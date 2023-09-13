@@ -8,6 +8,8 @@ Portabilidade, adaptação ou criação de exemplos para utilização na Franzin
 |GPIO_DigitalPin                    | 🔴     | ...                                                                                                           |
 |ADC_AnalogicPin                    | 🔴     | ...                                                                                                           |
 |UART_Serial_RX-TX                  | 🔴     | ...                                                                                                           |
+|UART_Client                        | 🔴     | Exemplo aplicado ao Onesait Platform Comunity                                                                 |
+|UART_Server                        | 🔴     | Exemplo aplicado ao Onesait Platform Comunity                                                                 |
 |I2C                                | 🔴     | ...                                                                                                           |
 |SPI                                | 🔴     | ...                                                                                                           |
 |PWM                                | 🔴     | ...                                                                                                           |
@@ -20,6 +22,9 @@ Portabilidade, adaptação ou criação de exemplos para utilização na Franzin
 |MQTT                               | 🔴     | Exemplo aplicado ao Onesait Platform Comunity                                                                 |
 |Client_websocket                   | 🔴     | Exemplo aplicado ao Onesait Platform Comunity                                                                 |
 |Server_http                        | 🔴     | Exemplo aplicado ao Onesait Platform Comunity                                                                 |
+|Client_Generic_Socket              | 🔴     | Exemplo aplicado ao Onesait Platform Comunity                                                                 |
+|Server_Generic_Socket              | 🔴     | Exemplo aplicado ao Onesait Platform Comunity                                                                 |
+
 
 ### Legenda:
 
