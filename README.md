@@ -1,7 +1,7 @@
 # Exemplos para Franzininho-WiFI-LAB01 em (Circuit/Micro)Python
 
 
-Portabilidade, adaptação ou criação de exemplos para utilização na Franzininho WIFI-LAB01, priorizando a implementação de algortimos que facilitem o uso com poucos ajuste em Raspberry PI-PICO, ESP8266 e ESP32
+Portabilidade, adaptação ou criação de exemplos para utilização na Franzininho WIFI-LAB01, priorizando a implementação de algortimos que facilitem o uso com poucos ajuste em Armbian, Raspberry PI-PICO, ESP8266 e ESP32
 
 | Exemplos                          | Status | Descrição                                                                                                     |
 |-----------------------------------|--------|---------------------------------------------------------------------------------------------------------------|
